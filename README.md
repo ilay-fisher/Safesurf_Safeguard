@@ -1,4 +1,12 @@
-This repository contains two complementary Android applications designed to provide a secure, highly customizable, and controlled browsing environment: **SafeSurf** (a content-filtering browser) and **Safeguard** (a system-level enforcement tool).
+# SafeSurf & Safeguard
+
+Two complementary Android applications that provide a secure, highly customizable, and controlled browsing environment: **SafeSurf** (a content-filtering browser) and **Safeguard** (a system-level enforcement tool).
+
+> ## 📲 Download
+> Downloads are available to beta members. **[Create your free account →](https://safesurfsite.web.app/signup)**
+> then grab the apps from the **[downloads page](https://safesurfsite.web.app/downloads)**.
+>
+> _6-month free trial · no credit card · full access to SafeSurf & Safeguard._
 
 ---
 
@@ -6,9 +14,10 @@ This repository contains two complementary Android applications designed to prov
 
 SafeSurf is a highly customizable WebView-based browser designed to give users granular control over their web traffic and content exposure.
 
-### Key Features.
+### Key Features
 * **Multi-Format Support:** Capable of blocking various content types including videos, audio, fonts, text, scripts, and applications, with sub-type granularity.
-* **Global & Site-Specific Rules:** * Define global rules to allow or block specific types of content across all websites.
+* **Global & Site-Specific Rules:**
+  * Define global rules to allow or block specific types of content across all websites.
   * Create site-specific rules to override global rules, allowing users to exclude specific file types or whitelist entire websites.
 * **Advanced URL Filtering:** Capable of blocking a primary domain (e.g., youtube.com) while allowing access to a specific sub-URL, such as a particular video.
 * **Modification Protection:** Any modifications to rules or categories are protected by a user-defined time delay or require real-time approval from a designated sponsor via WhatsApp.
@@ -44,8 +53,18 @@ Safeguard acts as a companion and enforcement utility for SafeSurf, ensuring tha
   * Developer options lock
 * **Modification Protection:** Making changes within Safeguard requires waiting out a user-defined time delay or entering a predetermined password.
 * **Sponsor Override:** Similar to SafeSurf, actions that require a time delay can be expedited by obtaining immediate approval from a sponsor.
+
 <img src="https://github.com/user-attachments/assets/2116c911-b9b8-4987-90d9-e4391799914d" width="300">
 <img src="https://github.com/user-attachments/assets/2f921dc3-8df2-41da-bc77-c512c3262453" width="300">
 <img src="https://github.com/user-attachments/assets/68dbe75c-987d-413e-aed8-6fe0d2b073a1" width="300">
 <img src="https://github.com/user-attachments/assets/49fa1ea6-c209-49ed-8966-f9d66c8f503e" width="300">
 
+---
+
+## 🚀 Getting Started
+
+1. **[Create a free account](https://safesurfsite.web.app/signup)** and verify your email.
+2. Download **SafeSurf** and **Safeguard** from the **[downloads page](https://safesurfsite.web.app/downloads)**.
+3. Follow the **[installation guide](https://safesurfsite.web.app/install)** to set up Safeguard as Device Owner.
+
+📄 [Privacy Policy](https://safesurfsite.web.app/privacy) · [Terms of Service](https://safesurfsite.web.app/terms)
