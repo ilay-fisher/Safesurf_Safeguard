@@ -3,8 +3,8 @@
 Two complementary Android applications that provide a secure, highly customizable, and controlled browsing environment: **SafeSurf** (a content-filtering browser) and **Safeguard** (a system-level enforcement tool).
 
 > ## 📲 Download
-> Downloads are available to beta members. **[Create your free account →](https://safesurfsite.web.app/signup)**
-> then grab the apps from the **[downloads page](https://safesurfsite.web.app/downloads)**.
+> Downloads are available to beta members. **[Create your free account →](https://safesurfsite.com/signup)**
+> then grab the apps from the **[downloads page](https://safesurfsite.com/downloads)**.
 >
 > _6-month free trial · no credit card · full access to SafeSurf & Safeguard._
 
@@ -63,8 +63,8 @@ Safeguard acts as a companion and enforcement utility for SafeSurf, ensuring tha
 
 ## 🚀 Getting Started
 
-1. **[Create a free account](https://safesurfsite.web.app/signup)** and verify your email.
-2. Download **SafeSurf** and **Safeguard** from the **[downloads page](https://safesurfsite.web.app/downloads)**.
+1. **[Create a free account](https://safesurfsite.com/signup)** and verify your email.
+2. Download **SafeSurf** and **Safeguard** from the **[downloads page](https://safesurfsite.com/downloads)**.
 3. Follow the **[installation guide](https://safesurfsite.web.app/install)** to set up Safeguard as Device Owner.
 
-📄 [Privacy Policy](https://safesurfsite.web.app/privacy) · [Terms of Service](https://safesurfsite.web.app/terms)
+📄 [Privacy Policy](https://safesurfsite.com/privacy) · [Terms of Service](https://sfesurfsite.com/terms)
